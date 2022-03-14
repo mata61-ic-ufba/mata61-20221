@@ -43,14 +43,14 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 + Implementação de um compilador (60%)
    - Quizzes
    - Exercícios práticos
-+ Pequenas tarefas e Discussões (5%)
++ Pequenas tarefas e discussões (5%)
 
 ## Plano de Aulas
 
 Data | Semana | Tópico
 -- | -- | --
-07 e 09/03/2022 | 1 | Boas-vindas e apresentação da disciplina
-14 e 16/03/2022 | 2 |  
+07 e 09/03/2022 | 1 | Acolhimento da UFBA
+14 e 16/03/2022 | 2 | Apresentação da disciplina 
 21 e 23/03/2022 | 3 |  
 28 e 30/03/2022 | 4 |  
 04 e 06/04/2022 | 5 |  
@@ -72,15 +72,26 @@ Data | Semana | Tópico
 
 - Exercícios, quizzes, tarefas, textos em formato .PDF e vídeos: Google Classroom da UFBA, disciplina MATA61 2022.1 T01.
 - Código de exercícios práticos, textos em formato markdown, especificação e implementação do compilador: Repositórios na Organização mata61-ic-ufba no GitHub.
+- Tutorial Git-it: https://github.com/jlord/git-it-electron/releases
 
 ## Bibliografia
 
 ### Básica
 
+1. THAIN, Douglas. Introduction to Compilers and Language Design. 2a Ed, 2020, http://compilerbook.org.
+2. AHO, A. et al. Compiladores: princípios, técnicas e ferramentas. 2a Ed., Addison-Wesley, 2008. 
+
 ### Complementar
 
-+ Programming Language Pragmatics, Michael L. Scott, 3rd ed.
-+ A book for your shelf: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html), Harold Abelson and Gerald Jay Sussman, with Julie Sussman, 2nd ed.
+1. LEVINE, John. Lex & Bison. O'Reilley. 2009.
+2. APPEL, A. W. Modern Compiler Implementation in Java. Cambridge University Press, Cambridge, 1997. 
+3. LOUDEN, K. C. Compiladores: Princípios e Práticas. Editora Thompson Pioneira, 1a Ed., 2004. 
+4. RICARTE, I. Introdução à Compilação, Editora Campus, 2008. 
+5. BROWN, D.; LEVINE, J. ; MASSON, T. Lex & Yacc. Unix Programming Tool. O'Reilly, 2nd edition, 1995. 
+6. MITCHELL, J. Foundation for Programming Languages. Foundations of Computing, MIT Press, 1996. 
+7. WINSKEL, G. The Formal Semantics of Programming Languages: An Introduction. Foundations of Computing series. MIT Press, Cambridge, Massachusetts, February 1993. 
+8. SCOTT, M.L. Programming Language Pragmatics, 3rd ed.
+9. ABELSON, H.; SUSSMAN, G.; with SUSSMAN, J. A book for your shelf: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html),  2nd ed.
 
 ----
   Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
