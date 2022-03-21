@@ -21,7 +21,29 @@ intermediário. Geração e otimização de código objeto.
 
 ## Programa
 
-O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da UFBA.
+O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no [Google Classroom da UFBA](https://drive.google.com/file/d/1usd8EpK-eXbWhb8D_g674vxpBRG0h9WQ/view?usp=sharing).
+
+1. Introdução à Compilação de Programas 
+   a) Conceitos básicos e funcionalidades 
+   b) Componentes de um compilador 
+   c) Fases de Análise e Síntese 
+2. Análise Léxica 
+   a) Conceitos básicos (tokens, lexemas, etc.)
+   b) Especificação e reconhecimento de linguagens regulares
+   c) Implementação manual e geração de analisadores léxicos 
+3. Análise Sintática 
+   a) Conceitos básicos (derivação, árvores sintáticas, ambiguidade, etc.)
+   b) Especificação e reconhecimento de linguagens livres de contexto 
+   c) Análise LL e LR
+   d) Implementação manual e geração de analisadores sintáticos 
+4. Análise semântica 
+   a) Conceitos básicos
+   b) Sistemas de tipos 
+   c) Tabela de símbolos e resolução de nomes
+   d) Implementação de verificação de tipos 
+5. Ambientes de execução, organização de memória
+6. Geração de código 
+7. Otimização de código
 
 ## Métodos
 
@@ -98,5 +120,3 @@ Data | Semana | Tópico
 ----
   Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
   This is an organization for academic activities. See [Authors](AUTHORS).
-
-
