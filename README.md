@@ -16,6 +16,8 @@
 
 ## Ementa
 
+Análise e Síntese. Análise léxica, sintática e semântica. Geração de código intermediário. Otimização de código
+intermediário. Geração e otimização de código objeto.
 
 ## Programa
 
@@ -25,7 +27,7 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 
 - Aulas síncronas, invertidas, com (pré-)leitura e discussões
 - Aulas assíncronas, com vídeos e atividades práticas 
-- Quizzes e exercícios para explorar conceitos de compiladores
+- Quizzes e exercícios para explorar conceitos de compiladores e sua implementação
 - Pequenas tarefas e discussões
 - Trabalho prático de construção de um compilador.
 
@@ -42,7 +44,7 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
    - Exercícios
 + Implementação de um compilador (60%)
    - Quizzes
-   - Exercícios práticos
+   - Exercícios e trabalho prático
 + Pequenas tarefas e discussões (5%)
 
 ## Plano de Aulas
@@ -50,8 +52,8 @@ O Programa da Disciplina aprovado pelo DCC-IC-UFBA está no Google Classroom da 
 Data | Semana | Tópico
 -- | -- | --
 07 e 09/03/2022 | 1 | Acolhimento da UFBA
-14 e 16/03/2022 | 2 | Apresentação da disciplina 
-21 e 23/03/2022 | 3 |  
+14 e 16/03/2022 | 2 | 
+21 e 23/03/2022 | 3 | Apresentação da disciplina
 28 e 30/03/2022 | 4 |  
 04 e 06/04/2022 | 5 |  
 11 e 13/04/2022 | 6 |  
