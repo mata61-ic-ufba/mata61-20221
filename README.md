@@ -75,9 +75,9 @@ Data | Semana | Tópico
 -- | -- | --
 07 e 09/03/2022 | 1 | Acolhimento da UFBA
 14 e 16/03/2022 | 2 | 
-21 e 23/03/2022 | 3 | Apresentação da disciplina
-28 e 30/03/2022 | 4 |  
-04 e 06/04/2022 | 5 |  
+21 e 23/03/2022 | 3 | Apresentação da disciplina, Conceitos
+28 e 30/03/2022 | 4 | Análise Léxica (AL), expressões regulares. autômatos finitos, implementação de AL
+04 e 06/04/2022 | 5 | Flex, implementação de AL com Flex
 11 e 13/04/2022 | 6 |  
 18 e 20/04/2022 | 7 |  
 25 e 27/04/2022 | 8 |
